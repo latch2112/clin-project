@@ -1,7 +1,7 @@
 ---
 name: Tâche / task
 about: Tâche à faire / Task to do
-title: "[task]"
+title: "[tâche] "
 labels: task
 assignees: ''
 
