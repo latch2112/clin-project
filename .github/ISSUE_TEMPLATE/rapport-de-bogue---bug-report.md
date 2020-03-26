@@ -1,44 +1,35 @@
 ---
-name: Rapport de bogue / Bug report
-about: Rapporter un bogue afin de nous aider à améliorer notre système / Create a
-  report to help us improve
+name: Bug report
+about: Template for reporting bugs
 title: ''
-labels: bug
+labels: Bug
 assignees: ''
 
 ---
 
-**Décrire le bogue Describe the bug**
-Un résumé d'en quoi consiste le bogue. 
+### Summary of problem
+
 A clear and concise description of what the bug is.
 
-**Pour reproduire / To Reproduce**
-Étapes pour reproduire le bogue: / Steps to reproduce the behavior:
+### Steps to Reproduce
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Comportement attendu / Expected behavior**
-Une description courte de ce que vous devriez voir.
+### Expected behavior
+
 A clear and concise description of what you expected to happen.
 
-**Ce qui arrive à la place / What happens instead**
+### What happens instead
 
-**Aperçu-écrans / Screenshots**
-Ajouter une image pour illustrer l'erreur, si c'est pertinent.
-If applicable, add screenshots to help explain your problem.
+A clear and concise description of what actually happens.
 
-**Plateforme / Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### Screenshots
 
-**Téléphone / Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+If applicable, add screenshots to help explain your problem. `Optional`
 
-**Informations suppémentaires / Additional context**
-Add any other context about the problem here.
+### Additional context
+
+Add any other context about the problem here. `Optional`
