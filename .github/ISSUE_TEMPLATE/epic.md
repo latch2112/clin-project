@@ -17,4 +17,4 @@ assignees: ''
 
 ---
 
-_This epic should be broken down into multiple tasks (user stories) which contain their own acceptance criteria. Use the "User Story" template from the template dropdown to create your tasks, and then link one back to this Epic._
+_This epic should be broken down into multiple tasks (user stories) which contain their own acceptance criteria. Use the "User Story" template from the template dropdown to create your tasks, and then link them back to this Epic._
